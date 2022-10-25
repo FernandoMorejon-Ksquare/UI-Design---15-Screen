@@ -12,7 +12,7 @@ FERNANDO MOREJON FAUSTO
 ## Practice 5
 ![Practice 5](./images/screenshots/practice_5.png)
 ## Practice 6
-![Practice 6]./images/screenshots/practice_6.png)
+![Practice 6](./images/screenshots/practice_6.png)
 ## Practice 7
 ![Practice 7](./images/screenshots/practice_7.png)
 ## Practice 8
@@ -30,7 +30,7 @@ FERNANDO MOREJON FAUSTO
 ## Practice 14
 ![Practice 14](./images/screenshots/practice_14.png)
 ## Practice 15
-![Practice 15](./images/screenshots/practice_15.png}
+![Practice 15](./images/screenshots/practice_15.png)
 ## Practice 16
 ![Practice 16](./images/screenshots/practice_16.png)
 ## Practice 17
