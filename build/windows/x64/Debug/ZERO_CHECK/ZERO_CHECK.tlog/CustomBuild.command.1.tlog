@@ -1,0 +1,10 @@
+^C:\USERS\HARDEN\DOCUMENTS\VISUALSTUDIOCODEPROJECTS\ITKSQUARE\FLUTTER NEW\HOMEWORK\WEEKEND 2 UI TASKS\ARCHIVE\BUILD\WINDOWS\CMAKEFILES\1992E42B56BDC53D6472F89976908315\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/Harden/Documents/VisualStudioCodeProjects/ITKSquare/Flutter New/Homework/Weekend 2 UI Tasks/archive/windows" "-BC:/Users/Harden/Documents/VisualStudioCodeProjects/ITKSquare/Flutter New/Homework/Weekend 2 UI Tasks/archive/build/windows" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/Harden/Documents/VisualStudioCodeProjects/ITKSquare/Flutter New/Homework/Weekend 2 UI Tasks/archive/build/windows/myfirstapp.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

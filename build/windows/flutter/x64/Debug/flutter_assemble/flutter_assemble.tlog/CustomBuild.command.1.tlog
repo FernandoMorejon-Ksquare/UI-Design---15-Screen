@@ -1,0 +1,28 @@
+^C:\USERS\HARDEN\DOCUMENTS\VISUALSTUDIOCODEPROJECTS\ITKSQUARE\FLUTTER NEW\HOMEWORK\WEEKEND 2 UI TASKS\ARCHIVE\BUILD\WINDOWS\CMAKEFILES\B4FEC75DB6EB812B88EADFD6E866E44A\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\Users\Harden\Documents\flutter "PROJECT_DIR=C:\Users\Harden\Documents\VisualStudioCodeProjects\ITKSquare\Flutter New\Homework\Weekend 2 UI Tasks\archive" FLUTTER_ROOT=C:\Users\Harden\Documents\flutter "FLUTTER_EPHEMERAL_DIR=C:\Users\Harden\Documents\VisualStudioCodeProjects\ITKSquare\Flutter New\Homework\Weekend 2 UI Tasks\archive\windows\flutter\ephemeral" "PROJECT_DIR=C:\Users\Harden\Documents\VisualStudioCodeProjects\ITKSquare\Flutter New\Homework\Weekend 2 UI Tasks\archive" "FLUTTER_TARGET=C:\Users\Harden\Documents\VisualStudioCodeProjects\ITKSquare\Flutter New\Homework\Weekend 2 UI Tasks\archive\lib\main.dart" DART_DEFINES=RkxVVFRFUl9XRUJfQVVUT19ERVRFQ1Q9dHJ1ZQ== DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false "PACKAGE_CONFIG=C:\Users\Harden\Documents\VisualStudioCodeProjects\ITKSquare\Flutter New\Homework\Weekend 2 UI Tasks\archive\.dart_tool\package_config.json" C:/Users/Harden/Documents/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\HARDEN\DOCUMENTS\VISUALSTUDIOCODEPROJECTS\ITKSQUARE\FLUTTER NEW\HOMEWORK\WEEKEND 2 UI TASKS\ARCHIVE\BUILD\WINDOWS\CMAKEFILES\E3C5B8F13B51E82B7837B68AD465C40D\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\HARDEN\DOCUMENTS\VISUALSTUDIOCODEPROJECTS\ITKSQUARE\FLUTTER NEW\HOMEWORK\WEEKEND 2 UI TASKS\ARCHIVE\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/Harden/Documents/VisualStudioCodeProjects/ITKSquare/Flutter New/Homework/Weekend 2 UI Tasks/archive/windows" "-BC:/Users/Harden/Documents/VisualStudioCodeProjects/ITKSquare/Flutter New/Homework/Weekend 2 UI Tasks/archive/build/windows" --check-stamp-file "C:/Users/Harden/Documents/VisualStudioCodeProjects/ITKSquare/Flutter New/Homework/Weekend 2 UI Tasks/archive/build/windows/flutter/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

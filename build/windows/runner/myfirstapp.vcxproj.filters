@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Harden\Documents\VisualStudioCodeProjects\ITKSquare\Flutter New\Homework\Weekend 2 UI Tasks\archive\windows\runner\flutter_window.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Harden\Documents\VisualStudioCodeProjects\ITKSquare\Flutter New\Homework\Weekend 2 UI Tasks\archive\windows\runner\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Harden\Documents\VisualStudioCodeProjects\ITKSquare\Flutter New\Homework\Weekend 2 UI Tasks\archive\windows\runner\utils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Harden\Documents\VisualStudioCodeProjects\ITKSquare\Flutter New\Homework\Weekend 2 UI Tasks\archive\windows\runner\win32_window.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Harden\Documents\VisualStudioCodeProjects\ITKSquare\Flutter New\Homework\Weekend 2 UI Tasks\archive\windows\flutter\generated_plugin_registrant.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Harden\Documents\VisualStudioCodeProjects\ITKSquare\Flutter New\Homework\Weekend 2 UI Tasks\archive\windows\runner\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C:\Users\Harden\Documents\VisualStudioCodeProjects\ITKSquare\Flutter New\Homework\Weekend 2 UI Tasks\archive\windows\runner\Runner.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{93F2E407-1EBF-31D3-ADBB-D015D672637A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

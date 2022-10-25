@@ -1,0 +1,10 @@
+^C:\USERS\HARDEN\DOCUMENTS\VISUALSTUDIOCODEPROJECTS\ITKSQUARE\FLUTTER NEW\HOMEWORK\WEEKEND 2 UI TASKS\ARCHIVE\BUILD\WINDOWS\CMAKEFILES\1992E42B56BDC53D6472F89976908315\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

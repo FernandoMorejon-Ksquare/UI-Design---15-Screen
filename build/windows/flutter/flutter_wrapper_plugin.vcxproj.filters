@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Harden\Documents\VisualStudioCodeProjects\ITKSquare\Flutter New\Homework\Weekend 2 UI Tasks\archive\windows\flutter\ephemeral\cpp_client_wrapper\core_implementations.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Harden\Documents\VisualStudioCodeProjects\ITKSquare\Flutter New\Homework\Weekend 2 UI Tasks\archive\windows\flutter\ephemeral\cpp_client_wrapper\standard_codec.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Harden\Documents\VisualStudioCodeProjects\ITKSquare\Flutter New\Homework\Weekend 2 UI Tasks\archive\windows\flutter\ephemeral\cpp_client_wrapper\plugin_registrar.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Harden\Documents\VisualStudioCodeProjects\ITKSquare\Flutter New\Homework\Weekend 2 UI Tasks\archive\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{9FF28B8C-75D4-35D9-A6C6-1E6DC86F67D5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{93F2E407-1EBF-31D3-ADBB-D015D672637A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

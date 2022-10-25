@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Harden\Documents\VisualStudioCodeProjects\ITKSquare\Flutter New\Homework\Weekend 2 UI Tasks\archive\build\windows\CMakeFiles\1992e42b56bdc53d6472f89976908315\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{9FF28B8C-75D4-35D9-A6C6-1E6DC86F67D5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
